@@ -1,2 +1,0 @@
-# visitorApp
-Visitor Management Application
